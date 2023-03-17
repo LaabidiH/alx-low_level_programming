@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  * main - create line with printf function
  *
