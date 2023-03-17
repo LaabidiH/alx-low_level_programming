@@ -1,8 +1,8 @@
-#include <stdio.h>
+#include<stdio.h>
 /**
- * main - create line with printf function
- *
- * Return: Always 0 (Success)
+ *main - the start point
+ *Description:print each size of each type of the variables in c
+ *Return:return 0
  */
 int main(void)
 {
