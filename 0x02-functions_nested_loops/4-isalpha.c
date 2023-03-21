@@ -2,6 +2,9 @@
 
 /**
  * _isalpha - print all alphabet in lowercase 10 time
+ *@c: the character to be checked
+ *
+ * Return: Always 0.
  */
 
 int _isalpha(int c)
