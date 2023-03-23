@@ -4,7 +4,6 @@
 /**
  * print_most_numbers - print numbers except 2 and 4
  *
- * @c : char for count
  * return: void
  */
 
